@@ -59,8 +59,7 @@ def allBranch(request):
         bank = Banks.objects.get(name=bankName)
         bankId = bank.id
         branchList = Branches.objects.filter(bank=bankId, city=city)
-        print(branchList)
-        i = 0
+        i = 1
         data = {}
         for e in branchList:
             data[i] = {
