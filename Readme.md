@@ -1,3 +1,26 @@
+## Server Link
+
+ - [`Branch Details`](http://34.228.119.210/)
+ ```
+ Branch Details param
+ 
+     #param:
+         {
+             "ifsc":"ABHY0065001"	
+             }
+ ```
+ 
+ - [`All Branch List`](http://34.228.119.210/list)
+  ```
+ All Branch List 
+ 
+     #param:
+         {
+            "bankName":"BANK OF BARODA",
+            "city":"DELHI"
+             }
+ ```
+ 
 
 ## Setup Guide
  - create the new project
