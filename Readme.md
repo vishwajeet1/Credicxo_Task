@@ -1,6 +1,6 @@
 ## Server Link
 
- - [`Branch Details`](http://ec2-54-163-169-146.compute-1.amazonaws.com)
+ - [`Branch Details`](http://ec2-54-89-247-96.compute-1.amazonaws.com)
  ```
  Branch Details param
  
@@ -10,7 +10,7 @@
              }
  ```
  
- - [`All Branch List`](http://ec2-54-163-169-146.compute-1.amazonaws.com/list)
+ - [`All Branch List`](http://ec2-54-89-247-96.compute-1.amazonaws.com/list)
   ```
  All Branch List 
  
