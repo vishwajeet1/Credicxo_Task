@@ -1,13 +1,15 @@
+> *Server link Updated* 
 ## Server Link
 
  - [`Branch Details`](http://ec2-54-89-247-96.compute-1.amazonaws.com)
  ```
  Branch Details param
  
-     #param:
+     # input param:
          {
              "ifsc":"ABHY0065001"	
              }
+													
  ```
  
  - [`All Branch List`](http://ec2-54-89-247-96.compute-1.amazonaws.com/list)
