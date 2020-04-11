@@ -24,7 +24,7 @@
 
 ## Setup Guide
  - create the new project
- - clone the project
+ - pull the project
  - install and create a virtual environment
 
 ```
